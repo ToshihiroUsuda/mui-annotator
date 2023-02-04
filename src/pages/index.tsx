@@ -1,10 +1,11 @@
-import { Button } from '@mui/material';
 import type { NextPage } from 'next'
+
+import Layout from '../components/shell/layout'
 
 const Home: NextPage = () => {
   return (
     <>
-      <Button variant="contained">Hello World</Button>
+      <Layout />
     </>
   )
 }

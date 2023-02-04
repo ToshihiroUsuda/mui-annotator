@@ -1,7 +1,7 @@
-import { createTheme } from '@mui/material/styles';
+import { createTheme } from '@mui/material/styles'
 
-const theme = createTheme({
-    // TODO:テーマ設定を行います
-});
+const defaultTheme = createTheme({
+  // TODO:テーマ設定を行います
+})
 
-export default theme;
+export default defaultTheme
