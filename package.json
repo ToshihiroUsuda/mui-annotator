@@ -1,5 +1,5 @@
 {
-  "name": "mui-electron",
+  "name": "mui-annotator",
   "version": "0.1.0",
   "private": true,
   "main": "main/main.js",
